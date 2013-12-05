@@ -1,0 +1,11 @@
+Logitech G110 Color Changer
+
+Video can be found here: http://www.youtube.com/watch?v=9VZwyxtJMJU
+
+Install Python: http://www.python.org/download/ (I went with v2.7.6)
+Install PyUSB: http://sourceforge.net/projects/pyusb/
+Install a libUSB driver for the keyboard: http://sourceforge.net/projects/libusb-win32/
+
+Edit the script to make sure you have the right productID. (I am not sure if this changes with each device)
+
+To run: python g110_color_changer.py
